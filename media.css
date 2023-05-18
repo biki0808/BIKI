@@ -1,0 +1,41 @@
+/* LOGIN PAGE RESPONSIVE DESIGN */
+
+#login_main_container{
+    height: 40rem;
+}
+
+#login_container{
+    height: 26rem;
+    width: 19rem;
+}
+#login_container h1{
+    font-size: 2rem;
+}
+
+#login_container form label{
+    font-size: 1.3rem;
+}
+
+#login_container form input{
+    width: 15rem;
+}
+
+#login_container form input {
+    width: 15rem;
+    margin-left: 2rem;
+}
+#login_container form label {
+    font-size: 1.3rem;
+    padding-left: 3rem;
+}
+
+#login_container form .login_input_button{
+    margin-left: 0;
+}
+
+#login_container form .login_input_button {
+    height: 2.6rem;
+    width: 8rem;
+}
+
+/* LOGIN PAGE RESPONSIVE DESIGN */
